@@ -6,7 +6,7 @@ To run locally:
 npm i
 ```
 ```
-node server.js
+node app.js
 ```
 
 > MongoDB & node is need to be installed on the system
